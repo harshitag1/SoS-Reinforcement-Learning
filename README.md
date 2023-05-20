@@ -11,6 +11,6 @@ The part-wise content is in the respective folders.
 * [Part 1](./part1/)
 * [Part 2](./part2/)
 
-<!-- ## Note
+##Additional Resources
 
-Note that for the completion of the WiDS project, a report is necessary. While the report format is up to you, we recommend writing the report using LaTeX. This can essentially be where you note down things which you do on a weekly basis. For the lit review people, this report should preferably be in a paper format (for instance, [IEEE](https://www.ieee.org/conferences/publishing/templates.html), or [APS REVTeX](https://journals.aps.org/revtex/revtex-faq#u1)). Other people can also follow this. -->
+I would also like to share an extra resource with you all that I personally find valuable for learning reinforcement learning from the ground up: [Reinforcement Learning](https://youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
