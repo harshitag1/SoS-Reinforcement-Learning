@@ -11,6 +11,6 @@ The part-wise content is in the respective folders.
 * [Part 1](./part1/)
 * [Part 2](./part2/)
 
-##Additional Resources
+## Additional Resources
 
 I would also like to share an extra resource with you all that I personally find valuable for learning reinforcement learning from the ground up: [Reinforcement Learning](https://youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
