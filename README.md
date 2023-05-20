@@ -13,4 +13,4 @@ The part-wise content is in the respective folders.
 
 ## Additional Resources
 
-I would also like to share an extra resource with you all that I personally find valuable for learning reinforcement learning from the ground up: [Reinforcement Learning](https://youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
+I would also like to share an extra youtube playlist with you all that I personally find valuable for learning reinforcement learning from the ground up: [Reinforcement Learning](https://youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
